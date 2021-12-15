@@ -10,3 +10,21 @@ The technology would save professors time because the platform would calculate s
 **Developed(Frontend Only) in React JS**
 ***
 The Backend is built with Java Spring Boot using Hybernate and Mysql and can be found [here](https://github.com/etnikbeqiri1/arcademy-backend).
+
+
+---
+Join Quiz View
+***
+![home](https://raw.githubusercontent.com/etnikbeqiri1/arcademy-frontend/main/assets/home.png)
+
+---
+Create Quiz View
+***
+![create_quiz](https://raw.githubusercontent.com/etnikbeqiri1/arcademy-frontend/main/assets/create_quiz.png)
+
+---
+Create Quiz With Data View
+***
+![create_quiz_with_data](https://raw.githubusercontent.com/etnikbeqiri1/arcademy-frontend/main/assets/create_quiz_with_data.png)
+
+
